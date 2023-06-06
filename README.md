@@ -64,7 +64,7 @@ Welcome to the (unofficial) GitHub repository of the Ningxia University (NXU) Hu
 
 ```bash
 # clone the repository
-git clone git@github.com:themefisher/educenter-hugo.git
+git clone git@github.com:liuhangming-js/NXU-Hubei-AlumniHub.git
 
 # cd in the project directory
 $ cd educenter-hugo/exampleSite/
