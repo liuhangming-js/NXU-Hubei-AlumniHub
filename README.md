@@ -1,8 +1,8 @@
 <div align="center"><h1>NXU-HUBEI-ALUMNIHUB</h1></div>
 
-欢迎来到宁夏大学（NXU）湖北校友网（非官方）的GitHub仓库。这是一个专门为NXU湖北省校友打造的网络平台，旨在增进彼此之间的联系和合作。我们采用前后端分离的架构，前端使用最新技术以提供用户友好的体验，后端则专注于高效的数据处理和管理，以确保应用在面临大量请求时仍能快速响应。我们期待所有NXU的校友、学生以及所有对此项目感兴趣的人士参与进来，一同构建一个强大而紧密的NXU校友社区。
+这是宁夏大学（NXU）湖北校友网（非官方）的GitHub仓库。我们采用Hugo（基于Go语言的静态网站生成器）构建，旨在为NXU湖北校友提供一个紧密连接的网络平台。欢迎所有校友、学生和对此项目感兴趣的人士参与进来。
 
-Welcome to the (unofficial) GitHub repository of the Ningxia University (NXU) Hubei Alumni Network. This is a web platform specifically built for NXU Hubei alumni to improve connections and collaboration with each other. We use a separate front- and back-end architecture, with the front-end using the latest technologies to provide a user-friendly experience and the back-end focusing on efficient data processing and management to ensure that the application can still respond quickly in the face of a large number of requests. We look forward to the participation of all NXU alumni, students, and anyone interested in this project to build a strong and tight-knit community of NXU alumni.
+Welcome to the (unofficial) GitHub repository of the Ningxia University (NXU) Hubei Alumni Network. We use Hugo, a static website generator written in Go, to create a tightly connected web platform for NXU Hubei alumni. All alumni, students, and anyone interested in this project are welcome to participate.
 
 ------
 <div align="center">
