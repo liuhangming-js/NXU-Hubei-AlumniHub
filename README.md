@@ -91,7 +91,7 @@ Copyright &copy; Johnson Liu(Hangming Liu)<liuhangming246@gmail.com>
 
 <!-- thanks -->
 ## 👨‍💻致谢
-我们借鉴了Themefisher Gethugothemes 的开源项目Educenter Hugo，并在此基础上进行了网站开发。
+我们借鉴了Themefisher & Gethugothemes 的开源项目Educenter Hugo，并在此基础上进行了网站开发。
 
 原MIT许可证已经放置于third-part-licenses文件夹下。
 
